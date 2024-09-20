@@ -3,7 +3,7 @@ title: Getting Started
 sidebar_position: 1
 ---
 
-Spicetify is a multiplatform command-line tool to customize the official Spotify client.
+Spicetify is a multiplatform command-line tool to customize the official Spotify client. this shit is nice.
 
 ## Installation
 
